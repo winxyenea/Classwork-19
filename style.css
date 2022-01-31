@@ -1,0 +1,77 @@
+.box{
+    overflow: hidden;
+    width: 40%;
+    border: 4px solid palevioletred;
+    border-radius: 10px;
+ 
+}
+
+.A{
+    color: #1E90FF;
+    border: solid 5px; 
+    border-radius: 10px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    margin-left: 290px;
+    margin-bottom: -20px;
+    
+
+   
+}
+.B{
+    color: #FF0000;
+    border: solid 5px; 
+    border-radius: 10px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    margin-left: 250px;
+   
+}
+.C{
+    color: #32CD32;
+    border: solid 5px;
+    border-radius: 10px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    margin-left: 329px;
+    margin-top: -80px;
+}
+.D{
+    color: #1E90FF;
+    border: solid 5px;
+    border-radius: 10px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    margin-left: 360px;
+   margin-top: -20px;
+}
+.E{ color: #32CD32;
+    border: solid 5px;
+    border-radius: 10px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    margin-left: 285px;
+    margin-top: -82px;
+}
+.F{
+    color: #FF0000;
+    border: solid 5px;
+    border-radius: 10px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    margin-left: 210px;
+    margin-top: -82px;
+}
+
+
+
+
+
+
+
